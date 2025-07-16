@@ -3,6 +3,11 @@
 A simple and stylish **single-page web app** to generate QR codes from any URL instantly. Built with vanilla JavaScript and [QRCode.js](https://github.com/soldair/node-qrcode).
 
 ---
+## Live Demo
+
+🌐 [Check out the live app here](https://HamdanIbra.github.io/qr-generator/)
+
+---
 
 ## Features
 
@@ -19,6 +24,8 @@ A simple and stylish **single-page web app** to generate QR codes from any URL i
 ## Demo
 
 <img width="522" height="858" alt="image" src="https://github.com/user-attachments/assets/e1eb8183-b5ee-4cfa-9962-a624b3c64d02" />
+
+
 
 
 ---
